@@ -1,0 +1,29 @@
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\Data Source Updater.exe
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\Data Source Updater.deps.json
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\Data Source Updater.runtimeconfig.json
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\Data Source Updater.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\Data Source Updater.pdb
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\obj\Debug\net9.0\Data Source Updater.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\obj\Debug\net9.0\Data Source Updater.AssemblyInfoInputs.cache
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\obj\Debug\net9.0\Data Source Updater.AssemblyInfo.cs
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\obj\Debug\net9.0\Data Source Updater.csproj.CoreCompileInputs.cache
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\obj\Debug\net9.0\Data Source Updater.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\obj\Debug\net9.0\refint\Data Source Updater.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\obj\Debug\net9.0\Data Source Updater.pdb
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\obj\Debug\net9.0\Data Source Updater.genruntimeconfig.cache
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\obj\Debug\net9.0\ref\Data Source Updater.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\obj\Debug\net9.0\Data Source Updater.csproj.AssemblyReference.cache
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\ClosedXML.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\ClosedXML.Parser.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\ExcelNumberFormat.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\MailKit.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\MimeKit.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\RBush.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\SixLabors.Fonts.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\System.IO.Packaging.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+c:\Users\tbull\OneDrive\Desktop\Data Project\Data Source Updater\obj\Debug\net9.0\Data Sou.885F46FD.Up2Date
