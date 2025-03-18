@@ -1,0 +1,5 @@
+The purpose of this applicatin is to take in ideally excel files and mass email according to a couple of conditions
+-The updated date is < 365 days from the current date
+-The updater will update a line in the excel for last email sent
+-The updater WILL group together liked email addresses to only send 1 email with your information
+-Email template can be modified and more added to fit your needs
